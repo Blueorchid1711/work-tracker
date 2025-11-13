@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+pydantic[email]
+apscheduler
+aiofiles
+python-dateutil
+pytz
+jinja2
